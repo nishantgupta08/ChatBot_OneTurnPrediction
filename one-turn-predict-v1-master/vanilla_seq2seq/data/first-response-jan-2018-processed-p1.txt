@@ -1,0 +1,5 @@
+L1 +++$+++ INT-sv1appis11-1514760366182-225008 +++$+++ hi tenzin im just following up a home broadband service and i was told to get in touch today as its the <num> business day today and i have not received an order email i believe the order number was <num> +++$+++ okay let me check that for you can you help me with few details please?
+L2 +++$+++ INT-sv1appis11-1514760710561-225046 +++$+++ hi there, i just saw that there is a deal going for the <num> triple data sim and was wondering if i could upgrade my current plan to that +++$+++ are you referring to get a <cur> data sim plan with the <num> discount?
+L3 +++$+++ INT-sv1appis11-1514760803507-225054 +++$+++ hi +++$+++ hello there good morning
+L4 +++$+++ INT-sv1appis11-1514761371084-225112 +++$+++ hey <unk> not to bad finally live chat been down for days +++$+++ sorry for that
+L5 +++$+++ INT-sv1appis11-1514761676958-225143 +++$+++ hi dear i am in need of doing a sim replacement my sim card was stolen but in <unk> it n <unk> +++$+++ hey there let's have a look in your account can i have your mobile number, full name and dob?
